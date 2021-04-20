@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.CustomBrowser": "firefox",
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.useLocalIp": true
+}
